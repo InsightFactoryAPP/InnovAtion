@@ -235,3 +235,4 @@ InnovAtion is open to everyone. If you love AI and have a tool worth sharing, th
 
 ## 📜 License  
 This repository is licensed under the [MIT License](LICENSE).
+
