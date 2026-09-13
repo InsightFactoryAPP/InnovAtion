@@ -194,6 +194,7 @@ Browse our ever-growing list of tools below!
 | **Desilo**                | AI tool for digital asset management and collaboration.                    | [Visit](https://www.desilo.com/) |  
 | **Folloze**               | AI-powered platform for creating personalized marketing campaigns.         | [Visit](https://www.folloze.com/) |  
 | **Mutiny**                | AI platform for website personalization to convert more leads.             | [Visit](https://www.mutinyhq.com/) |  
+| **YYLO**        | Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. | [Visit](https://yylo.dev) |
 
 
 
@@ -234,4 +235,3 @@ InnovAtion is open to everyone. If you love AI and have a tool worth sharing, th
 
 ## 📜 License  
 This repository is licensed under the [MIT License](LICENSE).
-
